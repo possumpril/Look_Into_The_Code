@@ -9,7 +9,6 @@ html, body {
 main {
   display: flex;
   justify-content: center;
-  padding-top: 30px;
 }
 
 canvas {
